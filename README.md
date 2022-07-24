@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 
 <details>
   <summary>:zap: Most Used Languages</summary>
-[Dev.to](https://github-readme-stats.vercel.app/api/top-langs/?username=A-codee)](https://github.com/A-codee/github-readme-stats)
+<img align="left" alt="Aliya's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-codee" />
 </details>  
 
 
