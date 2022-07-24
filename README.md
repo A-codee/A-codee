@@ -19,6 +19,6 @@ Hello!
 A-codee/A-codee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-(https://github-readme-stats.vercel.app/api?username=A-codee)
+![Aliya's github stats](https://github-readme-stats.vercel.app/api?username=A-codee)
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=A-codee)](https://github.com/A-codee/github-readme-stats)
+[![Dev.to](https://github-readme-stats.vercel.app/api/top-langs/?username=A-codee)](https://github.com/A-codee/github-readme-stats)
