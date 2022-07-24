@@ -3,13 +3,7 @@ Hello!
 - 👋 Hi, I’m @Aliya Huma Ansari
 - 👀 I’m interested in web development, programming etc
 - 🌱 Tech student
--  Talk to me I am kinda awesome
-
-
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
-
-<br />
-
+-  
 
 ### Languages and Tools
 
@@ -25,6 +19,6 @@ Hello!
 A-codee/A-codee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Aliya's github stats](https://github-readme-stats.vercel.app/api?username=A-codee)
+(https://github-readme-stats.vercel.app/api?username=A-codee)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-codee)](https://github.com/A-codee/github-readme-stats)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=A-codee)](https://github.com/A-codee/github-readme-stats)
