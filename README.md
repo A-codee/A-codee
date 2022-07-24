@@ -6,7 +6,7 @@ Hello!
 -  Talk to me I am kinda awesome
 
 
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" href="https://www.linkedin.com/in/aliya-huma-ansari-03382020b/" />]
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
 
 <br />
 
@@ -27,4 +27,4 @@ You can click the Preview link to take a look at your changes.
 --->
 ![Aliya's github stats](https://github-readme-stats.vercel.app/api?username=A-codee)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-codee)](https://github.com/A-codee/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-codee)](https://github.com/A-codee/github-readme-stats)
