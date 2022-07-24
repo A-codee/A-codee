@@ -1,6 +1,6 @@
 Hello World!
 
-<iframe src="https://giphy.com/embed/tMdyKBra7ntdqSbOV8" width="480" height="398" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/digipen-programming-game-dev-computer-science-tMdyKBra7ntdqSbOV8">via GIPHY</a></p>
+<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
 - 👋 I’m @Aliya Huma Ansari
 - 👀 I’m interested in web development, programming etc
