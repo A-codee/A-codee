@@ -1,9 +1,15 @@
-Hello!
+Hello World!
 
-- 👋 Hi, I’m @Aliya Huma Ansari
+- 👋 I’m @Aliya Huma Ansari
 - 👀 I’m interested in web development, programming etc
 - 🌱 Tech student
--  
+- ⚡ Fun fact: I am kinda awesome and  
+
+### Talk with me, I am kinda awesome:
+<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+
+<br />
+
 
 ### Languages and Tools
 
