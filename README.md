@@ -1,5 +1,7 @@
 Hello World!
 
+<div style="width:100%;height:0;padding-bottom:83%;position:relative;"><iframe src="https://giphy.com/embed/tMdyKBra7ntdqSbOV8" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/digipen-programming-game-dev-computer-science-tMdyKBra7ntdqSbOV8">via GIPHY</a></p>
+
 - 👋 I’m @Aliya Huma Ansari
 - 👀 I’m interested in web development, programming etc
 - 🌱 Tech student
