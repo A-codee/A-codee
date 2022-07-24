@@ -18,7 +18,7 @@ Hello!
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<i class="fa-brands fa-java"></i>
+
 <br>
 <!---
 A-codee/A-codee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,3 +27,8 @@ You can click the Preview link to take a look at your changes.
 ![Aliya's github stats](https://github-readme-stats.vercel.app/api?username=A-codee)
 
 [![Dev.to](https://github-readme-stats.vercel.app/api/top-langs/?username=A-codee)](https://github.com/A-codee/github-readme-stats)
+
+
+
+[instagram]: https://www.instagram.com/humaansari09/
+[linkedin]:  (https://www.linkedin.com/in/aliya-huma-ansari-03382020b/)
