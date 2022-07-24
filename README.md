@@ -1,6 +1,6 @@
 Hello World!
 
-<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="300" height="220" />
+<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="400" height="300" />
 
 - 👋 I’m @Aliya Huma Ansari
 - 👀 I’m interested in web development, programming etc
