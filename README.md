@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 <details>
   <summary>:zap: GitHub Stats</summary>
-[Aliya's github stats](https://github-readme-stats.vercel.app/api?username=A-codee)
+<img align="left" alt="Aliya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=A-codee&show_icons=true&hide_border=true" />
 </details>
 
 <details>
