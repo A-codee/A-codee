@@ -8,8 +8,8 @@ Hello World!
 ### connect with me, I am kinda awesome:
 [<img align="left" alt="holisitc_developer | LinkedIn " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/aliya-huma-ansari-03382020b/)
 
-[<img align="left" alt="holisitc_developer | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
-(https://www.instagram.com/humaansari09/)
+<img align="left" alt="holisitc_developer | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+!(https://www.instagram.com/humaansari09/)
 
 <br />
 
