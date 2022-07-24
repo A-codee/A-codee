@@ -3,10 +3,10 @@ Hello World!
 - 👋 I’m @Aliya Huma Ansari
 - 👀 I’m interested in web development, programming etc
 - 🌱 Tech student
-- ⚡ Fun fact: I am kinda awesome and  
+- ⚡ Ask me about soft skills.
 
-### Talk with me, I am kinda awesome:
-<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+### connect with me, I am kinda awesome:
+<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[https://www.linkedin.com/in/aliya-huma-ansari-03382020b/]
 
 <br />
 
